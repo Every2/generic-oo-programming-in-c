@@ -4,6 +4,8 @@ project(generic_oop)
 set(SOURCES
         src/generics.c
         include/generics.h
+        include/inheritance.h
+        include/inheritance.h
 )
 
 include_directories(include)
